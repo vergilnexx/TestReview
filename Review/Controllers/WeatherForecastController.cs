@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+п»їusing Microsoft.AspNetCore.Mvc;
 using Review.Contracts;
 using Review.Services.Abstract;
 
@@ -22,7 +22,7 @@ namespace Review.Controllers
         }
 
         /// <summary>
-        /// Изменет температуру
+        /// РР·РјРµРЅРµС‚ С‚РµРјРїРµСЂР°С‚СѓСЂСѓ
         /// </summary>
         /// <param name="temperature"></param>
         /// <returns></returns>

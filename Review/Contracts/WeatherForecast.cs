@@ -1,7 +1,7 @@
-namespace Review.Contracts
+п»їnamespace Review.Contracts
 {
     /// <param name="Date"></param>
-    /// <param name="TemperatureC"> Температура. </param>
+    /// <param name="TemperatureC"> РўРµРјРїРµСЂР°С‚СѓСЂР°. </param>
     /// <param name="Summary"></param>
     public record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
     {
